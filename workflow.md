@@ -1,4 +1,5 @@
 # Workflow
+* Criticize code, not people
 * All changes should be done with pull request
 * All pull request should be reviewed (at list 2 :ok: by admin)
 * Create `feature/*` branch to add something new
