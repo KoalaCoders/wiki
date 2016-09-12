@@ -1,3 +1,3 @@
 # KoalaCoders wiki
-* [Lection](./lections.md)
+* [Lections](./lections.md)
 * [Workflow](./workflow.md)
