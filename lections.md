@@ -12,7 +12,7 @@
   <tr>
     <td>2</td>
     <td>24-09-16</td>
-    <td>Html/css(html and css pre/post processors). Simple javascript game.</td>
+    <td>Html/css(html and css pre/post processors). DOM. JQuery.</td>
   </tr>
   <tr>
     <td>3</td>
